@@ -1,5 +1,5 @@
-The following source code implements zlib to parse extract data from zip files
+The following source code implements dotnetzip to parse extract data from zip files
 as well as recompress back into a new zip file. This source code is meant to serve
-as inspiration for anyone trying to use zlib for manipulating zip files. 
+as inspiration for anyone trying to use dotnetzip for manipulating zip files. 
 The source code will not compile as I have not included any of the .dll's required for it. 
 
